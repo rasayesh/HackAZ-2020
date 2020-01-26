@@ -26,7 +26,7 @@ The webscraper uses libraries Requests, Beautiful soup, and pandas to run this s
 ## Authors
 
 [Gavin Magee](https://github.com/GavinTMagee), 
-[Reza Asayesh](https://github.com/RMA-source), 
+[Reza Asayesh](https://github.com/rasayesh), 
 [Andrew Raftovich](https://github.com/Kalatco), 
 [Robbie Bagley](https://github.com/kansairob) 
 
