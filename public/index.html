@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+                <title>Gravity</title>
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+                <link rel="stylesheet" type="text/css" href="style/GameStyle.css" />
+                <script type="text/javascript" src="js/Player.js"></script>
+                <script type="text/javascript" src="js/Planet.js"></script>
+                <script type="text/javascript" src="js/View.js"></script>
+                <script type="text/javascript" src="js/Model.js"></script>
+                <script> function restart() { location.reload(); } </script>
+	</head>
+	<body>
+                <canvas id="primarystage" width="1100" height="700"></canvas>
+                <img src="style/spacecraft.png" id="player" width="40" height="20" />
+                <img src="style/thrust.png" id="thrust" width="40" height="20" /> 
+                <div id="restartBtn">
+                        <button onclick="restart()">Restart</button>
+                </div>
+	</body>   
+</html>
