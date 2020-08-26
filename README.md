@@ -2,6 +2,8 @@
 
 January 2020
 
+[Click Here to play the simulation!](https://hackaz2020-space-game.herokuapp.com/)
+
 ## Game Purpose
 
 This is a simulation for orbital gravitational pulls and data visualization helping to increase interest in whatever statistic is presented, along with increasing interest in the sciences.  The physics engine, graphics, and servers are all made by hand using node and html canvas by our team in our goal of increasing interest in science and statistics through the use of interactive games.  
